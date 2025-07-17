@@ -17,4 +17,4 @@
 ### 🔧 Usage
 
 ```bash
-python3 remove_duplicates.py sample_input.txt
+python3 deduplicator.py sample_input.txt
